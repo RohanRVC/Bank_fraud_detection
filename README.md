@@ -14,6 +14,9 @@ Propose methods to assess the effectiveness of implemented actions.
 ## Dataset
 The dataset comprises 6362620 rows and 10 columns, detailing transactional information. A detailed data dictionary can be found [here (add link to data dictionary)].
 
+![image](https://github.com/RohanRVC/Bank_fraud_detection/assets/80825254/48c974ab-b1b2-4c14-92aa-f1b1a4bb3756)
+
+
 ## Methodology
 Data Preprocessing: Cleaning and preparing data for analysis.
 Model Development: Utilizing TensorFlow/PyTorch for creating generative vision models.
