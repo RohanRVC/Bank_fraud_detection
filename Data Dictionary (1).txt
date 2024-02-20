@@ -6,7 +6,7 @@ amount - amount of the transaction in local currency.
 
 nameOrig - customer who started the transaction
 
-oldbalanceOrg - initial balance before the transaction
+oldbalanceOrg - initial balance before the transaction 
 
 newbalanceOrig - new balance after the transaction
 
