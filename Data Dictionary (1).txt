@@ -10,7 +10,7 @@ oldbalanceOrg - initial balance before the transaction
 
 newbalanceOrig - new balance after the transaction
 
-nameDest - customer who is the recipient of the transaction
+nameDest - customer who is the recipient of the transaction 
 
 oldbalanceDest - initial balance recipient before the transaction. Note that there is not information for customers that start with M (Merchants).
 
